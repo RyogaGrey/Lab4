@@ -17,7 +17,7 @@
 
 1. **Склонируйте этот репозиторий**:
    ```bash
-   git clone https://github.com/your-repo/vk-neo4j-fetcher.git
+   git clone https://github.com/RyogaGrey/Lab4.git
    cd vk-neo4j-fetcher
    ```
 2. Установите зависимости:
